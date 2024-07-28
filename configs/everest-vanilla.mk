@@ -15,7 +15,7 @@ TARGET_NO_KERNEL_OVERRIDE := true
 
 # Overlay
 PRODUCT_PACKAGE_OVERLAYS += \
-   $(LOCAL_PATH)/overlay-voltage
+   $(LOCAL_PATH)/overlay-everest
 
 # Packages
 PRODUCT_PACKAGES += \
